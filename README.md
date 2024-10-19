@@ -23,8 +23,8 @@ Giving print statement for getting output.
 ```
 
 #Program for getting the word count from a text
-#Developed by : VIRUMAA HARISH M
-#Reg num : 212223230246
+#Developed by : Surya SK
+#Reg num : 212222100052
 
 num_words =0
 with open('text.txt','r') as file1:
